@@ -60,3 +60,5 @@ document.addEventListener('DOMContentLoaded', fetchPosts);
 if (typeof module !== 'undefined') {
     module.exports = { displayPosts, fetchPosts };
 }
+
+// I am adding this comment to try and update the submission date of this repo on canvas
